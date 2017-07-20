@@ -2,113 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>: ::: .::. ::: .:.. ::: ::. .. :.:. .: .:.. / :.:. ::: :: .::. .:.. . :..: / ... :.:: ... : . :: ... / .:.. .: :... on : ::: .::. ::: .:.. ::: ::. .. :.:. .: .:.. / :.:. ::: :: .::. .:.. . :..: / ... :.:: ... : . :: ... / .:.. .: :...</title>
-    <link>http://lordgrilo.github.io/website/</link>
+    <link>http://lordgrilo.github.io/website/docs/</link>
     <description>Recent content in : ::: .::. ::: .:.. ::: ::. .. :.:. .: .:.. / :.:. ::: :: .::. .:.. . :..: / ... :.:: ... : . :: ... / .:.. .: :... on : ::: .::. ::: .:.. ::: ::. .. :.:. .: .:.. / :.:. ::: :: .::. .:.. . :..: / ... :.:: ... : . :: ... / .:.. .: :...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Giovanni Petri</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    <atom:link href="/website/docs/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Universal limits to parallel processing capability of network architectures</title>
-      <link>http://lordgrilo.github.io/website/publication/multitasking/</link>
+      <link>http://lordgrilo.github.io/website/docs/publication/multitasking/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/publication/multitasking/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/publication/multitasking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primer</title>
-      <link>http://lordgrilo.github.io/website/talk/san-raffaele-news/</link>
+      <link>http://lordgrilo.github.io/website/docs/talk/san-raffaele-news/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/talk/san-raffaele-news/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/talk/san-raffaele-news/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analysis of Big Data in Gait Biomechanics: Current Trends and Future Directions</title>
-      <link>http://lordgrilo.github.io/website/publication/gait/</link>
+      <link>http://lordgrilo.github.io/website/docs/publication/gait/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/publication/gait/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/publication/gait/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Construction of and efficient sampling from the simplicial configuration model</title>
-      <link>http://lordgrilo.github.io/website/publication/scm/</link>
+      <link>http://lordgrilo.github.io/website/docs/publication/scm/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/publication/scm/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/publication/scm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topological analysis of data [editorial]</title>
-      <link>http://lordgrilo.github.io/website/publication/topology-editorial/</link>
+      <link>http://lordgrilo.github.io/website/docs/publication/topology-editorial/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/publication/topology-editorial/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/publication/topology-editorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the predictability of infectious disease outbreaks</title>
-      <link>http://lordgrilo.github.io/website/publication/outbreak/</link>
+      <link>http://lordgrilo.github.io/website/docs/publication/outbreak/</link>
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/publication/outbreak/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/publication/outbreak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structure and evolution of brain homological scaffolds</title>
-      <link>http://lordgrilo.github.io/website/talk/complenet/</link>
+      <link>http://lordgrilo.github.io/website/docs/talk/complenet/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/talk/complenet/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/talk/complenet/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>http://lordgrilo.github.io/website/talk/example-talk/</link>
+      <link>http://lordgrilo.github.io/website/docs/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/talk/example-talk/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Insights into Brain Architectures from the Homological Scaffolds of Functional Connectivity Networks</title>
-      <link>http://lordgrilo.github.io/website/publication/pss/</link>
+      <link>http://lordgrilo.github.io/website/docs/publication/pss/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/publication/pss/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/publication/pss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persistent homology analysis of phase transitions</title>
-      <link>http://lordgrilo.github.io/website/publication/phase/</link>
+      <link>http://lordgrilo.github.io/website/docs/publication/phase/</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/publication/phase/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/publication/phase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://lordgrilo.github.io/website/project/deep-learning/</link>
+      <link>http://lordgrilo.github.io/website/docs/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/project/deep-learning/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -123,19 +123,19 @@
     
     <item>
       <title>External Project</title>
-      <link>http://lordgrilo.github.io/website/project/example-external-project/</link>
+      <link>http://lordgrilo.github.io/website/docs/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/project/example-external-project/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>http://lordgrilo.github.io/website/post/getting-started/</link>
+      <link>http://lordgrilo.github.io/website/docs/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/post/getting-started/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
@@ -146,7 +146,7 @@
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;http://lordgrilo.github.io/website/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;http://lordgrilo.github.io/website/docs/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -210,15 +210,15 @@ cd my_website
 
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;http://lordgrilo.github.io/website/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;http://lordgrilo.github.io/website/docs/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;http://lordgrilo.github.io/website/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;http://lordgrilo.github.io/website/docs/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://lordgrilo.github.io/website/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lordgrilo.github.io/website/docs/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;customization-upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
 
@@ -322,10 +322,10 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>http://lordgrilo.github.io/website/post/widgets/</link>
+      <link>http://lordgrilo.github.io/website/docs/post/widgets/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/post/widgets/</guid>
+      <guid>http://lordgrilo.github.io/website/docs/post/widgets/</guid>
       <description>
 
 &lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
@@ -388,15 +388,15 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>http://lordgrilo.github.io/website/post/managing-content/</link>
+      <link>http://lordgrilo.github.io/website/docs/post/managing-content/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/website/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;http://lordgrilo.github.io/website/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://lordgrilo.github.io/website/docs/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;http://lordgrilo.github.io/website/docs/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;http://lordgrilo.github.io/website/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;http://lordgrilo.github.io/website/docs/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 

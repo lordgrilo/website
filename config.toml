@@ -1,10 +1,10 @@
-baseurl = "http://lordgrilo.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "http://lordgrilo.github.io/website/docs/"  # End your URL with a `/` trailing slash.
 title = ": ::: .::. ::: .:.. ::: ::. .. :.:. .: .:.. / :.:. ::: :: .::. .:.. . :..: / ... :.:: ... : . :: ... / .:.. .: :..."
 copyright = "&copy; 2017 Giovanni Petri"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-publishDir: docs
+publishDir = "docs"
 
 
 # Enable comments by entering your Disqus shortname
