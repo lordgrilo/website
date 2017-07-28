@@ -1,5 +1,5 @@
 baseurl = "http://lordgrilo.github.io/website/"  # End your URL with a `/` trailing slash.
-title = ": ::: .::. ::: .:.. ::: ::. .. :.:. .: .:.. / :.:. ::: :: .::. .:.. . :..: / ... :.:: ... : . :: ... / .:.. .: :..."
+title = "topological complex systems"
 copyright = "&copy; 2017 Giovanni Petri"
 theme = "academic"
 enableEmoji = true
@@ -157,7 +157,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "[selected::papers]"
+  name = "[selected:papers]"
   url = "#publications_selected"
   weight = 2
 

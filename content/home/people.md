@@ -19,13 +19,13 @@ weight = 100
 - [Angkoon Phinyomark](http://www.angkoon-phinyomark.com/)
 - [Francesco Vaccarino](https://www.isi.it/en/people/francesco-vaccarino)
 
-# Collaborators
-- [Alice Patania](http://apatania.altervista.org/) (IUNI, Indiana University, former ISI) 
-- [Jean-Gabriel Young](http://www.jgyoung.ca/) (University of Laval)
-- [Paul Expert](https://scholar.google.com/citations?user=HfhPMBoAAAAJ&hl=en) (Imperial College London)
-- [Samuel Scarpino](http://scarpino.github.io/) (Northeastern University)
+# Collaborators 
 - [Demian Battaglia](http://www.demian-battaglia.net/Demian_Battaglias_homepage/Home.html) (Aix-Marseille University)
-- [Louis-David Lord](https://www.psych.ox.ac.uk/team/louis-david-lord) (Oxford University)
+- [Jonathan Cohen](https://pni.princeton.edu/faculty/jonathan-cohen) (PNI, Princeton University) and his team at PNI (K. Ozcimder , S. Musslick, B. Dey, M. Lesnick, N. Ahmed and T. Willke at Intel)
+- [Paul Expert](https://scholar.google.com/citations?user=HfhPMBoAAAAJ&hl=en) (Imperial College London)
+- [Louis-David Lord](https://www.psych.ox.ac.uk/team/louis-david-lord) (Oxford University) 
+- [Alice Patania](http://apatania.altervista.org/) (IUNI, Indiana University, former ISI)
+- [Samuel Scarpino](http://scarpino.github.io/) (Northeastern University)
 - [Mattia Veronese](https://kclpure.kcl.ac.uk/portal/mattia.veronese.html) (King's College London)
-- [Jonathan Cohen](https://pni.princeton.edu/faculty/jonathan-cohen) (PNI, Princeton University)
+- [Jean-Gabriel Young](http://www.jgyoung.ca/) (University of Laval)
 
