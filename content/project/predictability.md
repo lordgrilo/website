@@ -1,9 +1,9 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2017-05-25"
 
 # Project title.
-title = "Deep Learning"
+title = "Predictability of Complex Systems"
 
 # Project summary to display on homepage.
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -13,7 +13,7 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["predictability"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

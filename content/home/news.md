@@ -14,7 +14,7 @@ weight = 5
 
 +++
 
-*27.7.17* - We are going to Barcelona! We just got notified that Esther Ibanez Marcelo is going to present some of our results at [Macfang](morfeo.ffn.ub.edu/macfang/) this autumn. Stay tuned for a preprint later this summer. 
+*27.7.17* - We are going to Barcelona! We just got notified that Esther Ibanez Marcelo is going to present some of our results on the topological effects of LSD and psilocybin at [Macfang](morfeo.ffn.ub.edu/macfang/) this autumn. Stay tuned for a preprint later this summer. 
 
 *25.7.17* - I just got invited to teach a course on social physics in the cognitive neuroscience MSc of San Raffaele University. Incredible, I'm a teacher now! I'll add a teaching section to the website soon.
 

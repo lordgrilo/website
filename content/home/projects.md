@@ -26,12 +26,20 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Topology"
+  tag = ".topology"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Brain"
+  tag = ".brain"
+
+[[filter]]
+  name = "Networks"
+  tag = ".networks"
+
+[[filter]]
+  name = "Deep Learning"
+  tag = ".deep-learning"
 
 +++
 
