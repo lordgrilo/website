@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on : ::: .::. ::: .:.. ::: ::. .. :.:. .: .:.. / :.:. ::: :: .::. .:.. . :..: / ... :.:: ... : . :: ... / .:.. .: :...</title>
+    <title>Tags on topological complex systems</title>
     <link>http://lordgrilo.github.io/website/tags/</link>
-    <description>Recent content in Tags on : ::: .::. ::: .:.. ::: ::. .. :.:. .: .:.. / :.:. ::: :: .::. .:.. . :..: / ... :.:: ... : . :: ... / .:.. .: :...</description>
+    <description>Recent content in Tags on topological complex systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Giovanni Petri</copyright>
@@ -18,24 +18,6 @@
       <guid>http://lordgrilo.github.io/website/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>http://lordgrilo.github.io/website/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://lordgrilo.github.io/website/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>http://lordgrilo.github.io/website/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://lordgrilo.github.io/website/tags/demo/</guid>
-      <description></description>
     </item>
     
     <item>
