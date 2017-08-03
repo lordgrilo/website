@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on topological complex systems</title>
-    <link>http://lordgrilo.github.io/publication_types/3/</link>
+    <link>https://lordgrilo.github.io/publication_types/3/</link>
     <description>Recent content in 3 on topological complex systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Universal limits to parallel processing capability of network architectures</title>
-      <link>http://lordgrilo.github.io/publication/multitasking/</link>
+      <link>https://lordgrilo.github.io/publication/multitasking/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://lordgrilo.github.io/publication/multitasking/</guid>
+      <guid>https://lordgrilo.github.io/publication/multitasking/</guid>
       <description></description>
     </item>
     
