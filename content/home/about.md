@@ -37,5 +37,5 @@ weight = 1
 
 # Biography
 
-I am a Principal Researcher at [ISI Foundation](http://www.isi.it/) working on topological approaches to complex networks and their underlying geometry, with special attention to the topology of brain structure and dynamics.
+I am a Research Leader at [ISI Foundation](http://www.isi.it/) working on topological approaches to complex networks and their underlying geometry, with special attention to the topology of brain structure and dynamics.
 

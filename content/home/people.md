@@ -16,7 +16,6 @@ weight = 100
 
 # ISI Team
 - [Esther Ibanez-Marcelo](https://sites.google.com/site/estherib4n3z/)
-- [Angkoon Phinyomark](http://www.angkoon-phinyomark.com/)
 - [Francesco Vaccarino](https://www.isi.it/en/people/francesco-vaccarino)
 
 # Collaborators 
@@ -25,6 +24,8 @@ weight = 100
 - [Paul Expert](https://scholar.google.com/citations?user=HfhPMBoAAAAJ&hl=en) (Imperial College London)
 - [Louis-David Lord](https://www.psych.ox.ac.uk/team/louis-david-lord) (Oxford University) 
 - [Alice Patania](http://apatania.altervista.org/) (IUNI, Indiana University, former ISI)
+- [Angkoon Phinyomark](http://www.angkoon-phinyomark.com/) (University of New Brunswick, former ISI)
+- [Enrica L. Santarcangelo](http://www.enricasantarcangelo.com/) (University of Pisa)
 - [Samuel Scarpino](http://scarpino.github.io/) (Northeastern University)
 - [Mattia Veronese](https://kclpure.kcl.ac.uk/portal/mattia.veronese.html) (King's College London)
 - [Jean-Gabriel Young](http://www.jgyoung.ca/) (University of Laval)

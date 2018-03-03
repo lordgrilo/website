@@ -14,15 +14,17 @@ weight = 5
 
 +++
 
-*27.7.17* - We are going to Barcelona! We just got notified that Esther Ibanez Marcelo is going to present some of our results on the topological effects of LSD and psilocybin at [Macfang](morfeo.ffn.ub.edu/macfang/) this autumn. Stay tuned for a preprint later this summer. 
+*21.2.18* - *New paper on how topology captures functional equivalence between perception and imagery*. We just uploaded it to bioArxiv, check [here](publication/perception-imagery) for details!
 
-*25.7.17* - I just got invited to teach a course on social physics in the cognitive neuroscience MSc of San Raffaele University. Incredible, I'm a teacher now! I'll add a teaching section to the website soon.
+*6.12.17* - *New paper on topological feature spaces out on JRS Interface!* Find all the details [here](publication/navigating-features).
 
-*24.7.17* - I'm going to give a talk at the funtional genomics of cancer lab at San Raffaele Scientific Institute!
+*29.9.17* - *TDA and big data fMRI review accepted!*
+Out now IEEE Transactions on Big Data, you can find it [here](http://ieeexplore.ieee.org/document/8052510/).
 
-*17.7.17* -  *New paper out!* 
-Our latest [paper](publication/gait/) on how TDA can contribute to analysis of gait signals is now available [online](https://link.springer.com/epdf/10.1007/s40846-017-0297-2?author_access_token=BkcgdXKG1hVsuVn_19cFY_e4RwlQNchNByi7wbcMAY7myl9h2tNJig_FLyOPBUt3k4nCJxkGb2qxEM5NyVbbOZNE-MJeRr5NBg_zJjtc1HeyEpjay_8V8WGVws49LTKFffLipFNJ8zuE_S1WS43iNg%3D%3D).
+*8.8.17* -  *SCM accepted and blog post!* 
+Our [paper](publications/scm) on the simplicial configuration model has been accepted on PRE. Stand by for the journal version! Also our [paper](publication/collabs) on the shape collaborations got some [attention](https://www.epj.org/113-epj-ds/1340-epj-data-science-highlight-a-fresh-look-into-the-dynamics-of-scientific-collaborations).
 
-*7.7.17* - I'm giving a talk at the Hess Lab at Biotech Lab in Geneva on structural and functional homological scaffolds. Slides [here](https://www.dropbox.com/s/xfbm0wu0fikyyaa/geneva-talk.pdf?dl=0).
 
-*1.7.17* - New website up! 
+
+
+

@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Giovanni Petri"
-  role = "Principal Researcher"
+  role = "Research Leader"
   organization = "ISI Foundation"
   organization_url = "http://www.isi.it"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
